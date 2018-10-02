@@ -4,6 +4,6 @@ seaborn
 matplotlib
 h2o
 keras
-tensorflow
+tensorflow-gpu
 h5py
 scikit-learn
